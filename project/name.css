@@ -51,6 +51,11 @@
     outline: none;
     cursor: pointer;
     margin: 20px 0;
+    transition: 1s;
+}
+.btn:hover{
+    background: #f67c92;
+    color: #fff;
 }
 .one{
     width: 30px;
@@ -103,6 +108,7 @@
     z-index: 2;
     cursor: pointer;
 }
+/* about us section  */
 
 #about{
     padding: 80px 0;
